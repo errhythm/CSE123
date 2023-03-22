@@ -1,6 +1,6 @@
 ### Submissions
 
-| **Submission No.** | Tutorial Link |
+| **Submission No.** | Submission Details |
 | ----------- | ----------- |
 | Submission 1 | [Click Here](/submission1) |
 | Submission 2 | [Click Here](/submission2) |
