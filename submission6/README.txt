@@ -1,26 +1,23 @@
-Completed coursera course using email
-someone@gmail.com
-https://www.coursera.org/learn/this_is_a_course
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/project/....
 
-Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
-
-completed youtube video:
+Unlisted YouTube video:
 http://youtube....
 
-completed book:
-http://book
+Conference submitted paper / paper submission / login Link:
+https://easy....
 
-did project:
-.....
+Paper title:
+Partially automated exam answer script checking for Intro to Marketing
 
-did something else
-...
+Paper presentation (anyone can view without login):
+http://slides.google.com/
 
-was active in slack:
-http://slack post URL1
-http://slack post URL2
+Group Number:
+0
 
-Submitter:
+Group Members:
 12345678 Name A
+23456789 Name B
+34567890 Name C
+45678901 Name D
