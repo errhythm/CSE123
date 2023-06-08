@@ -4,9 +4,6 @@ https://www.overleaf.com/project/....
 Unlisted YouTube video:
 http://youtube....
 
-Conference submitted paper / paper submission / login Link:
-https://easy....
-
 Paper title:
 Partially automated exam answer script checking for Intro to Marketing
 
