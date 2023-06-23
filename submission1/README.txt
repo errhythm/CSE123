@@ -1,4 +1,4 @@
-Overleaf link with edit access to ST, RA and my gmail.
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/project/....
 
 Link to unlisted YouTube video:
@@ -18,3 +18,4 @@ Group Members:
 23456789 Name B
 34567890 Name C
 45678901 Name D
+56789012 Name E
