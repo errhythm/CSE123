@@ -9,7 +9,7 @@ https://edx.org/learn/this_is_a_course
 completed youtube video:
 http://youtube....
 
-completed book:
+completed book and created concept map PDF along with video presentation:
 http://book
 
 did project:

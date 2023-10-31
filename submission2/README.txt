@@ -15,3 +15,5 @@ Group Number:
 
 Individual Submitter:
 12345678 Name A
+
+I also correctly uploaded slide.PPT and report.PDF here.
